@@ -1,4 +1,4 @@
-Event.create([
+Event.create!([
     {
         title:"Event1",
         description:"This is used to Event 1"
